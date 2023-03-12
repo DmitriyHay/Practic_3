@@ -1,0 +1,42 @@
+.text-1{
+    font-weight: bold;
+ }
+ .text-2{
+    font-style: italic;
+    font-weight: bold;
+ }
+ .text-3{
+    text-decoration: line-through;
+ }
+ .solid{
+   border: solid;
+}
+.dashed{
+   border: dashed;
+}
+.dotted{
+   border: dotted;
+}
+.double{
+   border: double;
+}
+.groove{
+   border: groove;
+border-color: rgb(0, 217, 255);
+border-width: 5px;
+}
+.ridge{
+border: ridge;
+border-color: rgb(0, 217, 255);
+border-width: 5px;
+}
+.inset{
+   border: inset;
+   border-color: rgb(0, 217, 255);
+   border-width: 5px;
+}
+.outset{
+   border: outset;
+   border-color: rgb(0, 217, 255);
+   border-width: 5px;
+}
