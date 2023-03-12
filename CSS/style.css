@@ -40,3 +40,43 @@ border-width: 5px;
    border-color: rgb(0, 217, 255);
    border-width: 5px;
 }
+.bg_img{
+   background-image: url('./img/nature.jpg');
+   width:500px;
+   height:500px;
+   color:gold;
+}
+.bg_16{
+   background-color: #2e9000;
+   color: #ffffff;
+}
+.bg_rgb{
+   background-color:rgb(0, 255, 234);
+}
+.bg_1{
+   background-color:gold;
+}
+.form_task:checked {
+   border-color: #008000;
+   box-shadow: 0 0 10px #008000;
+}
+.btn{
+   background-color:grey;
+   color:orange;
+   border-color:gold;
+   height: 200px;
+   width: 200px;
+   border-radius: 30px;
+   font-size: 40px;
+}
+.btn:hover{
+   background-color: darkgrey;
+   border-color:gold;
+   color: darkorange;
+}
+.task11::first-letter{
+   font-family:Impact, Haettenschweiler, 'Times New Roman', sans-serif;
+}
+
+
+
